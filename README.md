@@ -26,7 +26,7 @@ HTML, CSS, Tailwindcss
 Clone the project
 
 ```bash
-  git clone https://github.com/Fajrieeeeee/fajrieee.github.io.git
+  git clone https://github.com/Fajrieeeeee/fajrieeeeee.github.io.git
 ```
 
 
