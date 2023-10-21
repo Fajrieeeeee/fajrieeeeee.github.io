@@ -4,7 +4,7 @@
 
 ## fajrieeeeee.github.io
 
-Halo semua, ini adalah project web portofolio saya. Project ini dibuat dengan HTML, CSS dan TailwindCSS.
+Halo semua, ini adalah project web portofolio saya. Project ini dibuat dengan HTML, CSS dan TailwindCSS. Juga menggunakan AOS untuk animasinya
 
 ## Authors
 
@@ -18,7 +18,7 @@ Halo semua, ini adalah project web portofolio saya. Project ini dibuat dengan HT
 
 ## Tech Stack
 
-HTML, CSS, Tailwindcss
+HTML, CSS, Tailwindcss, AOS 
 
 
 ## Run Locally
